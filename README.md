@@ -12,3 +12,16 @@
 - **Frontend:** React.js, Next.js, Redux, Tailwind CSS
 - **Backend:** Node.js, Express.js, RESTful APIs, JWT
 - **Database:** MongoDB, Mongoose ODM
+
+## 🚀 My Projects & Deployments
+
+Here is a list of my projects deployed on Vercel:
+
+| Project Name | Live Demo (Vercel) | Tech Stack (Estimated) |
+| :--- | :--- | :--- |
+| 🥐 Responsive Bakery Website | [Live Link](https://responsive-bakery-website-pphu-7jz9e54zf.vercel.app/) | HTML, CSS, JavaScript |
+| 🎬 Movie Search App | [Live Link](https://movie-search-app-mu-rouge.vercel.app/) | HTML, Fetch API,,JavaScript, CSS |
+| 🛍️ Myntra Clone | [Live Link](https://myntra-clone-drab-ten.vercel.app/) | HTML, CSS |
+| 🌤️ Weather App | [Live Link](https://weather-app-ten-opal-zoo3r32szk.vercel.app/) | JavaScript, Weather API, CSS |
+| 🎨 Color Picker | [Live Link](https://color-picker-henna-six.vercel.app/) | HTML, CSS, JavaScript |
+| 📝 Form Validation | [Live Link](https://form-validation-theta-six.vercel.app/) | HTML, CSS, JavaScript |
